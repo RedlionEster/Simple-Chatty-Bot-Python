@@ -50,7 +50,6 @@ def test():
             print("Please, try again.")
 
 
-
 def end():
     print('Congratulations, have a nice day!')
 
