@@ -33,10 +33,6 @@ def count():
 
 def test():
     print("Let's test your programming knowledge.")
-
-
-def test():
-    print("Let's test your programming knowledge.")
     print("Why do we use methods?")
     print("1. To repeat a statement multiple times.")
     print("2. To decompose a program into several small subroutines.")
